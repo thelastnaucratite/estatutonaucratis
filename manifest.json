@@ -1,0 +1,30 @@
+{
+  "name": "Estatuto da Comunidade Politeísta Naucratita",
+  "short_name": "Naucratis",
+  "description": "Estatuto da Comunidade Politeísta Naucratita - Aos Deuses Gregos",
+  "start_url": "index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5e6d3",
+  "theme_color": "#9e5f37",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' fill='%239e5f37'/%3E%3Cpath d='M180 120 L332 120 Q350 120 350 140 L350 360 Q350 380 332 380 L180 380 Q162 380 162 360 L162 140 Q162 120 180 120 Z' fill='%23ebd49b' opacity='0.8'/%3E%3Cpath d='M162 140 Q200 120 230 140 Q260 160 290 140 Q320 120 350 140' stroke='%23c9a84c' stroke-width='8' fill='none'/%3E%3Cpath d='M162 360 Q200 380 230 360 Q260 340 290 360 Q320 380 350 360' stroke='%23c9a84c' stroke-width='8' fill='none'/%3E%3Ctext x='256' y='300' font-size='120' text-anchor='middle' fill='%23c9a84c' font-family='serif'%3EN%3C/text%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' fill='%239e5f37'/%3E%3Cpath d='M180 120 L332 120 Q350 120 350 140 L350 360 Q350 380 332 380 L180 380 Q162 380 162 360 L162 140 Q162 120 180 120 Z' fill='%23ebd49b' opacity='0.8'/%3E%3Cpath d='M162 140 Q200 120 230 140 Q260 160 290 140 Q320 120 350 140' stroke='%23c9a84c' stroke-width='8' fill='none'/%3E%3Cpath d='M162 360 Q200 380 230 360 Q260 340 290 360 Q320 380 350 360' stroke='%23c9a84c' stroke-width='8' fill='none'/%3E%3Ctext x='256' y='300' font-size='120' text-anchor='middle' fill='%23c9a84c' font-family='serif'%3EN%3C/text%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' fill='%239e5f37'/%3E%3Cpath d='M70 45 L122 45 Q135 45 135 55 L135 135 Q135 145 122 145 L70 145 Q57 145 57 135 L57 55 Q57 45 70 45 Z' fill='%23ebd49b' opacity='0.8'/%3E%3Cpath d='M57 55 Q85 40 105 55 Q125 70 145 55' stroke='%23c9a84c' stroke-width='4' fill='none'/%3E%3Cpath d='M57 135 Q85 150 105 135 Q125 120 145 135' stroke='%23c9a84c' stroke-width='4' fill='none'/%3E%3Ctext x='96' y='115' font-size='50' text-anchor='middle' fill='%23c9a84c' font-family='serif'%3EN%3C/text%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
